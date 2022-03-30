@@ -1,5 +1,5 @@
 # AlphaZero-Hnefatafl
-A machine learning project to train an agent to plays Hnefatafl, a historic Scandinavian board game
+A machine learning project to train an agent to play Hnefatafl, a historic Scandinavian board game
 
 # Description
 
