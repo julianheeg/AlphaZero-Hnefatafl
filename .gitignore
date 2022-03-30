@@ -1,0 +1,21 @@
+*.pyc
+.DS_Store
+.idea/
+/temp/
+/.project
+/.pydevproject
+/connect4/
+/gobang/
+/othello/
+/pretrained_models/
+/pytorch_classification/
+/tictactoe/
+/arena_replays/
+full_game_stats.p
+Game.py
+LICENSE
+NeuralNet.py
+pit.py
+README.md
+utils.py
+temp - Kopie/
